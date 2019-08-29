@@ -1,5 +1,5 @@
 # hello-world
-Hello humans!
+Hello all!
 
-George here, 
-I like Tacos
+Hello there, 
+I like the ocean
