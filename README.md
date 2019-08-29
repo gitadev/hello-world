@@ -1,2 +1,5 @@
 # hello-world
-Optional Description
+Hello humans!
+
+George here, 
+I like Tacos
